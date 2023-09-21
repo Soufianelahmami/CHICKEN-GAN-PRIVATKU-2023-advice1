@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJzom6G.webp",
+            "title": "CHICKEN GAN PRIVATKU 2023 advice 1",
+            "text_Content_": "The Chicken Gan Privatku (CGP) festival has been a beloved cultural event for years, celebrating the rich traditions of Indonesian cuisine and the joy of sharing a meal with loved ones. As we look forward to the 2023 edition of this delightful festival, it's essential to prepare and make the most of your experience"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJzoDnn.webp",
+            "title": "CHICKEN GAN PRIVATKU 2023 advice 2",
+            "text_Content_": "Whether you're a first-time attendee or a seasoned CGP enthusiast, this guide will provide you with valuable advice to ensure you have an unforgettable time at the event"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJzobGs.webp",
+            "title": "CHICKEN GAN PRIVATKU 2023 advice 3",
+            "text_Content_": "The Chicken Gan Privatku festival is more than just a food event; it's a celebration of Indonesian culture and culinary heritage. To fully immerse yourself in the experience, take the time to learn about the history and significance of the dishes being served"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJzoZZX.webp",
+            "title": "CHICKEN GAN PRIVATKU 2023 advice 4",
+            "text_Content_": "With the popularity of the CGP festival, it's crucial to plan your visit in advance. Consider factors such as transportation, accommodations, and the festival schedule. Booking your travel and accommodations early can help you secure the best options and avoid any last-minute inconveniences"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJzoPvp.webp",
+            "title": "CHICKEN GAN PRIVATKU 2023 advice 5",
+            "text_Content_": "One of the most important pieces of advice for attending CGP is to come hungry. The festival showcases an array of delicious dishes, and you'll want to savor as many as possible. Be prepared to sample various chicken dishes, from the classic to the innovative, and don't forget to leave room for dessert"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJzoQjt.webp",
+            "title": "CHICKEN GAN PRIVATKU 2023 advice 6",
+            "text_Content_": "While some vendors may accept card payments, it's wise to carry cash with you. Many stalls and street vendors prefer cash transactions, so having some Indonesian Rupiah on hand will make your transactions smoother. Be sure to withdraw cash from reliable ATMs to avoid unnecessary fees"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJzoiyN.webp",
+            "title": "CHICKEN GAN PRIVATKU 2023 advice 7",
+            "text_Content_": "Indonesia's climate can be warm and humid, so dress comfortably for the weather. Lightweight, breathable clothing and comfortable shoes are essential for navigating the festival grounds. Don't forget to bring sunscreen and a hat to protect yourself from the sun"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJzoLuI.webp",
+            "title": "CHICKEN GAN PRIVATKU 2023 advice 8",
+            "text_Content_": "The CGP festival is not only a celebration of food but also a gathering of people who share a love for Indonesian culture. Be respectful of the environment and your fellow festival-goers by disposing of trash properly and following any designated guidelines. Help keep the festival clean and enjoyable for everyone"
         }
     ]
 }
